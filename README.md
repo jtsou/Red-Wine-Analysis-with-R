@@ -1,4 +1,4 @@
-# Data-Analysis-with-R
+# Red Wine Analysis with R
 <h3> Chemical Properties </h3>
 <ul>
 <li>fixed acidity: most acids involved with wine or fixed or nonvolatile (do not evaporate readily) (tartaric acid - g / dm^3)</li>
